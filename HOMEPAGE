@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Website</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            margin-top: 100px;
+            background: #f2f2f2;
+        }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>🎉 My Website is Live!</h1>
+    <p>Hosted for free on GitHub Pages.</p>
+</body>
+</html>
